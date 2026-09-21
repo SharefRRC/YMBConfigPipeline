@@ -1,1 +1,1 @@
-# YMBConfigPipeline
+This repository contains a CI pipeline for the Yarrow-Mullein Bank banking application.
